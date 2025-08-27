@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tirupati Rayudu</h1>
 <h3 align="center">A passionate Data Scientist/Data Analyst/Business Analyst from India</h3>
-<img width="100%https://img.freepik.com/premium-vector/flat-style-data-scientist-with-data-analytics-tools-machine-learning-algorithms_1033579-46902.jpg>
+<img width="100% https://img.freepik.com/premium-vector/flat-style-data-scientist-with-data-analytics-tools-machine-learning-algorithms_1033579-46902.jpg"/>
 
 - 🔭 I’m currently working on **Capstone Project**
 
