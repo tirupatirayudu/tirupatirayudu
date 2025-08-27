@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tirupati Rayudu</h1>
 <h3 align="center">A passionate Data Scientist/Data Analyst/Business Analystfrom India</h3>
-<img width="100%"https://www.bing.com/images/search?view=detailV2&ccid=sPmCYYOD&id=5EB464198864EB8950AAA9DEF3EE1D912B2DF723&thid=OIP.sPmCYYODdVj1LNK0C_AMrgHaE8&mediaurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fflat-style-data-scientist-with-data-analytics-tools-machine-learning-algorithms_1033579-46902.jpg&exph=418&expw=626&q=data+scientist+animation+images+free+download&form=IRPRST&ck=5A26BF0D3B18DFAF58CE6058A86DEEAB&selectedindex=0&itb=0&cw=1103&ch=509&ajaxhist=0&ajaxserp=0&vt=2&sim=11&cit=ccid_sPmCYYOD*cp_5A26BF0D3B18DFAF58CE6058A86DEEAB*mid_5EB464198864EB8950AAA9DEF3EE1D912B2DF723*thid_OIP.sPmCYYODdVj1LNK0C!_AMrgHaE8>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tirupatirayudu&label=Profile%20views&color=0e75b6&style=flat" alt="tirupatirayudu" /> </p>
+<img width="100%https://img.freepik.com/premium-vector/flat-style-data-scientist-with-data-analytics-tools-machine-learning-algorithms_1033579-46902.jpg>
 
 - 🔭 I’m currently working on **Capstone Project**
 
